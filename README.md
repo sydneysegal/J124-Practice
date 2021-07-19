@@ -28,6 +28,16 @@ _Let's **combine** bold and italics_
     1. To make a subitem, hit Tab twice to indent
     2. Subitem 2
 
+*Add inline code. Use one tick mark to format a line. Use three tick marks to format multiple lines.*
+`
+One line of code
+`
+```
+Multiple lines
+of code
+in a block
+```
+
 *How to upload an image* 
 1. Upload an image to GitHub (Upload a new file)
 2. Reference the file in your Markdown
@@ -36,5 +46,18 @@ _Let's **combine** bold and italics_
 !['Name of the image','Alt text'](/File path to the image or an image URL)
 Format:![Alt text](url)
 
+**Image from a .jpg file in the repo**
+!['Peony','Peony flower bloom'](/peony.jpg)
+
+**Image from a URL**
 !['Peony','Peony flower bloom'](/peony.jpg)
 (https://www.self.com/gallery/best-flower-delivery-services)
+
+*This is a link*
+[Google](https://www.google.com/)
+
+*This is a blockquote*
+In the wise words of Blackstreet from "No Diggity"
+
+> How to get down <br>
+> Good Lord
