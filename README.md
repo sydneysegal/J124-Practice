@@ -33,12 +33,8 @@ _Let's **combine** bold and italics_
 2. Reference the file in your Markdown
 3. Be sure to add an alt text description to your image
 
-![Name of the image][File path to the image]
+!['Name of the image','Alt text'](/File path to the image or an image URL)
 Format:![Alt text](url)
 
-![Peony][/peony.jpg]
-Format:![Peony flower](https://www.self.com/gallery/best-flower-delivery-services)
-
-
-
-
+!['Peony','Peony flower bloom'](/peony.jpg)
+(https://www.self.com/gallery/best-flower-delivery-services)
